@@ -9,11 +9,13 @@ I fix the boring Windows problems nobody wants to touch, and I leave the tooling
 - AutoCAD automation: LISP tools, volume/area calc, batch plotting, CNC post-processors
 - static sites and deployment: Netlify, custom domains, sitemaps, SEO basics
 - Android APK inspection: what an APK actually talks to, trackers, ad SDKs, signer identity
+- CNC and laser lettering: any font (TTF, SHX, Hershey) converted to CAM paths or an extruded 3D solid
 
 **Public work**
 
 - [rustdesk-win7-deploy](https://github.com/ielaphus/rustdesk-win7-deploy) - silent RustDesk on Windows 7, Telegram notifications, and a real fix for the blinking remote cursor (root cause in the upstream code, [report](https://github.com/rustdesk/rustdesk/discussions/16592))
 - [apk-audit](https://github.com/ielaphus/apk-audit) - dependency-free Node script that opens an APK and reports permissions, tracker SDKs and URL hosts
+- [gost-2.304-68](https://github.com/ielaphus/gost-2.304-68) - Soviet drafting letters (GOST 2.304-68 type A) as DXF: single-stroke Cyrillic for laser, V-carve and 3D print, plus converters for any font
 
 **How I work**
 
